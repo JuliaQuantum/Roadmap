@@ -1,5 +1,5 @@
-This repo is for discussions and documentations of overall and cross-repo roadmaps for JuliaQ projects. 
+This repo is for discussions and documentations of overall and cross-repo roadmaps for JuliaQuantum projects. 
 
-Discussions regarding these roadmaps are on [the issue page](https://github.com/JuliaQ/Roadmap/issues) of this repo.
+Discussions regarding these roadmaps are on [the issue page](https://github.com/JuliaQuantum/Roadmap/issues) of this repo.
 
-Discussions regarding general affairs of the JuliaQ organization are in the [JuliaQ/JuliaQ.github.io](https://github.com/JuliaQ/JuliaQ.github.io) repo.
+Discussions regarding general affairs of the JuliaQuantum organization are in the [JuliaQ/JuliaQuantum.github.io](https://github.com/JuliaQuantum/JuliaQuantum.github.io) repo.
