@@ -4,11 +4,11 @@ Note: the first two parts are the foundation to other parts. Ideally, both symbo
 
 1. Representations:
     
-    1. General quantum states (see [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl)).
+    1. General quantum states (see [QuBase.jl scope](https://github.com/JuliaQuantum/QuBase.jl/issues/7)).
         - [x] Pure states (ket & bra).
         - [ ] Ensemble of quantum states.
 
-    2. Operators (see [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl)).
+    2. Operators (see [QuBase.jl scope](https://github.com/JuliaQuantum/QuBase.jl/issues/7)).
         - [ ] Hamiltonian (Hermitian or non-Hermitian).
         - [ ] Evolutionary operators.
         - [ ] Functions of operators.
@@ -32,9 +32,9 @@ Note: the first two parts are the foundation to other parts. Ideally, both symbo
     3. Coherent states and infinite dimensional space (see [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl)).
         - [ ] Squeezed states and squeezing operators.
         - [ ] Displacement operators.
-    4. Wigner function, Q-function, P-function and other quasi-probability functions (see [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl)).
+    4. Wigner function, Q-function, P-function and other quasi-probability functions (see [QuBase.jl scope](https://github.com/JuliaQuantum/QuBase.jl/issues/7)).
         - [ ] Characteristic functions.
-    5. Pictures (see [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl)).
+    5. Pictures (see [QuBase.jl scope](https://github.com/JuliaQuantum/QuBase.jl/issues/7)).
     6. Quantization of fields.
 
 2. Quantum dynamics:
